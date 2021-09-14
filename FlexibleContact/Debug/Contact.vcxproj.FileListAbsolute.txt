@@ -1,0 +1,2 @@
+E:\c语言代码\游戏\Contact\Debug\Contact.exe
+E:\c语言代码\游戏\FlexibleContact\Debug\DynamicContact.exe
